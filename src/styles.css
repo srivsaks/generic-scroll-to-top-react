@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  height: 500px;
+  width: 100px;
+  background-color: blue;
+  margin-bottom: 20px;
+}
+
+body {
+  position: relative;
+}
+
+.scroll-to-top {
+  position: fixed;
+  bottom: 1%;
+  left: 58%;
+}
